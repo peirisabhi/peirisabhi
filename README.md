@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi I'm Abhishek Dananjaya 👋
  
 - 🌱 I’m currently studying for a degree of B.Sc in Software Engineering at [Java Institute For Advanced Technology, Colombo, SriLanka](https://www.javainstitute.edu.lk/) 🏫
 - 🔭 I’m currently working as Associate Software Engineering.
